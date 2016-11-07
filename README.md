@@ -1,9 +1,4 @@
-Nettuts+ Article - Build a Complete MVC Web Site With ExpressJS
-======================
-
-The idea is to demonstrate MVC architecture in the context of Express.
-
-## Installation
+ Installation
 
   - Download the source code
   - Go to *app* directory
