@@ -1,0 +1,31 @@
+{
+  "name": "Travel with me",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^3.2.6",
+    "hjs": "0.0.4",
+    "less-middleware": "0.1.12",
+    "mongodb": "3.2",
+    "underscore": "1.4.4"
+  },
+  "services-1": {
+    "id-service": "1",
+    "name": "Show elements from DB",
+    "physical-location": "localhost:81/services/show-elements",
+    "version": "0.0.1",
+    "validity": "28.08.2016",
+    "documentation-link": "localhost:81/services/kursovoy_Kuleshova"
+  },
+  "services-2": {
+    "id-service": "2",
+    "name": "Administration page",
+    "physical-location": "localhost:81/services/administration-panel",
+    "version": "0.0.1",
+    "validity": "31.06.2016",
+    "documentation-link": "localhost:81/services/kursovoy_Kuleshova"
+  }
+}
